@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# Login-Page
+ Login page I wrote with react
+![Ekran Görüntüsü (845)](https://github.com/user-attachments/assets/13b1dfbe-93d7-4fde-be31-8e85f03d01a3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,8 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Login-Page
- Login page I wrote with react
->>>>>>> 625c99f29274155b1aeb957ad950391a88ea02ab
+
+
